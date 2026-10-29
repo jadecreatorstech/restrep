@@ -1,6 +1,6 @@
 Privacy Policy — RestRep
 
-Effective date: [set on first release]
+Effective date: November 1, 2026
 
 RestRep stores your workout data only on your own device. We do not collect, transmit, sell, or share any personal information. There is no account, no cloud sync, no advertising, and no analytics in the app.
 
